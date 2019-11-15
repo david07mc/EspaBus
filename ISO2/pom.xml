@@ -71,7 +71,8 @@
     </pluginManagement>
   </build>
   <packaging>pom</packaging>
-    <modules>
-    <module>Iteration1</module>
-  </modules>
+
+<modules>
+	<module>Iteration1</module>
+</modules>
 </project>
