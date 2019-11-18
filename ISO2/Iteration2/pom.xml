@@ -7,10 +7,11 @@
     <artifactId>ISO2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.quisofte2</groupId>
+  <groupId>org.quisofte.Iteration2</groupId>
   <artifactId>Iteration2</artifactId>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <name>Iteration2</name>
+  <packaging>jar</packaging>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
