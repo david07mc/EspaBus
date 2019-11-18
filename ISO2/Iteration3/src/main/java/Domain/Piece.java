@@ -1,4 +1,4 @@
-package domain;
+package Domain;
 
 /**
  * Represents a piece with all its information. The availavility can't be negative.

@@ -1,4 +1,4 @@
-package domain;
+package Domain;
 
 /**
  * It has information about each user (being job its position in the business, boss or mechanic).

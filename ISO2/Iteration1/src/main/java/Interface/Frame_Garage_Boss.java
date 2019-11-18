@@ -1,4 +1,4 @@
-package presentation;
+package Interface;
 
 /**
  * Interface of the Garage Boss in order to do the operations related with this job.
