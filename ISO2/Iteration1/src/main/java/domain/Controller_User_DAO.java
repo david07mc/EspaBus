@@ -1,4 +1,4 @@
-package Domain;
+package domain;
 
 public class Controller_User_DAO {
 
