@@ -1,4 +1,4 @@
-package Interface;
+package presentation;
 
 /**
  * Interface for the mechanics tu use (and interact with its functions).
