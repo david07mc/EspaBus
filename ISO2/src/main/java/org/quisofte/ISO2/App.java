@@ -1,9 +1,5 @@
 package org.quisofte.ISO2;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
